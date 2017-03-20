@@ -1,0 +1,871 @@
+# depslib dependency file v1.0
+1481123639 source:e:\vincent\4thyear\cmsc178\whiteghost\whiteghost\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	<string.h>
+	"MyPolygon.h"
+	"Alphabets.h"
+	"MyText.h"
+	"GameAttributes.h"
+	"MyObjects.h"
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winuser.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winerror.h
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006770 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\basetsd.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\pshpack4.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\poppack.h
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winver.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\dde.h
+
+1301111150 c:\program files (x86)\codeblocks\mingw\include\dlgs.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\prsht.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\wincon.h
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\winbase.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\wingdi.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnls.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnetwk.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winreg.h
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winsvc.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\cderr.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\ddeml.h
+
+1301111150 c:\program files (x86)\codeblocks\mingw\include\imm.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\lzexpand.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\mmsystem.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\nb30.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\basetyps.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcdcep.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnsi.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnterr.h
+
+1341006772 c:\program files (x86)\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\pshpack2.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winperf.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnsip.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winspool.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\mswsock.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\cguid.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\olectlid.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1426320928 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426320928 c:\program files (x86)\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341006780 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1480603414 e:\vincent\4thyear\cmsc178\whiteghost\whiteghost\mypolygon.h
+	<windows.h>
+	<GL/glut.h>
+
+1480846445 e:\vincent\4thyear\cmsc178\whiteghost\whiteghost\alphabets.h
+	"MyPolygon.h"
+
+1481006047 e:\vincent\4thyear\cmsc178\whiteghost\whiteghost\mytext.h
+	<string>
+	"Alphabets.h"
+
+1481122058 e:\vincent\4thyear\cmsc178\whiteghost\whiteghost\gameattributes.h
+
+1481122071 e:\vincent\4thyear\cmsc178\whiteghost\whiteghost\myobjects.h
+	"MyPolygon.h"
+	"GameAttributes.h"
+
+1480846398 source:e:\vincent\4thyear\cmsc178\whiteghost\whiteghost\alphabets.cpp
+	"Alphabets.h"
+
+1480833432 source:e:\vincent\4thyear\cmsc178\whiteghost\whiteghost\gameattributes.cpp
+
+1481122105 source:e:\vincent\4thyear\cmsc178\whiteghost\whiteghost\myobjects.cpp
+	"MyObjects.h"
+	<stdio.h>
+
+1480831919 source:e:\vincent\4thyear\cmsc178\whiteghost\whiteghost\mypolygon.cpp
+	"MyPolygon.h"
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+
+1341006774 c:\program files (x86)\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1481006039 source:e:\vincent\4thyear\cmsc178\whiteghost\whiteghost\mytext.cpp
+	"MyText.h"
+
+1480846398 source:e:\vincent\4thyear\cmsc178\whiteghost\alphabets.cpp
+	"Alphabets.h"
+
+1480846445 e:\vincent\4thyear\cmsc178\whiteghost\alphabets.h
+	"MyPolygon.h"
+
+1480603414 e:\vincent\4thyear\cmsc178\whiteghost\mypolygon.h
+	<windows.h>
+	<GL/glut.h>
+
+1481554483 source:e:\vincent\4thyear\cmsc178\whiteghost\gameattributes.cpp
+	"GameAttributes.h"
+
+1481861765 source:e:\vincent\4thyear\cmsc178\whiteghost\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<sstream>
+	<fstream>
+	"MyPolygon.h"
+	"Alphabets.h"
+	"MyText.h"
+	"GameAttributes.h"
+	"Background.h"
+	"GameChar.h"
+	"Fence.h"
+	"Collision.h"
+	"Sound.h"
+
+1481006047 e:\vincent\4thyear\cmsc178\whiteghost\mytext.h
+	<string>
+	"Alphabets.h"
+
+1481861934 e:\vincent\4thyear\cmsc178\whiteghost\gameattributes.h
+	"GameChar.h"
+	"Fence.h"
+	<stdlib.h>
+	<string>
+	<vector>
+
+1481452538 e:\vincent\4thyear\cmsc178\whiteghost\myobjects.h
+	"MyPolygon.h"
+	"GameAttributes.h"
+	"GameChar.h"
+
+1481449933 source:e:\vincent\4thyear\cmsc178\whiteghost\myobjects.cpp
+	"MyObjects.h"
+	<stdio.h>
+
+1480831919 source:e:\vincent\4thyear\cmsc178\whiteghost\mypolygon.cpp
+	"MyPolygon.h"
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+
+1481006039 source:e:\vincent\4thyear\cmsc178\whiteghost\mytext.cpp
+	"MyText.h"
+
+1481541301 source:e:\vincent\4thyear\cmsc178\whiteghost\collision.cpp
+	"Collision.h"
+	<windows.h>
+	<GL/glut.h>
+
+1481457408 e:\vincent\4thyear\cmsc178\whiteghost\collision.h
+	<windows.h>
+	<GL/glut.h>
+	"Fence.h"
+	"GameChar.h"
+
+1481530219 e:\vincent\4thyear\cmsc178\whiteghost\gamechar.h
+	"MyPolygon.h"
+
+1481531020 source:e:\vincent\4thyear\cmsc178\whiteghost\gamechar.cpp
+	"GameChar.h"
+
+1481667837 e:\vincent\4thyear\cmsc178\whiteghost\background.h
+	"MyPolygon.h"
+	"GameAttributes.h"
+	"GameChar.h"
+
+1481842779 source:e:\vincent\4thyear\cmsc178\whiteghost\background.cpp
+	"Background.h"
+	<stdio.h>
+
+1481459921 source:e:\vincent\4thyear\cmsc178\whiteghost\fence.cpp
+	"Fence.h"
+
+1481531070 e:\vincent\4thyear\cmsc178\whiteghost\fence.h
+	"MyPolygon.h"
+
+1481547820 e:\vincent\4thyear\cmsc178\whiteghost\sound.h
+	<windows.h>
+	<mmsystem.h>
+	<irrKlang.h>
+
+1481805591 source:e:\vincent\4thyear\cmsc178\whiteghost\sound.cpp
+	"Sound.h"
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\audio.hpp
+	<SFML/System.hpp>
+	<SFML/Audio/InputSoundFile.hpp>
+	<SFML/Audio/Listener.hpp>
+	<SFML/Audio/Music.hpp>
+	<SFML/Audio/OutputSoundFile.hpp>
+	<SFML/Audio/Sound.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/SoundBufferRecorder.hpp>
+	<SFML/Audio/SoundFileFactory.hpp>
+	<SFML/Audio/SoundFileReader.hpp>
+	<SFML/Audio/SoundFileWriter.hpp>
+	<SFML/Audio/SoundRecorder.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/Audio/SoundStream.hpp>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1478253350 c:\program files (x86)\codeblocks\mingw\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\fileinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\memoryinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<iterator>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\utf.inl
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\string.inl
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\thread.inl
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\threadlocalptr.inl
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\vector2.inl
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\system\vector3.inl
+
+1478253376 c:\program files (x86)\codeblocks\mingw\include\sfml\audio\inputsoundfile.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\audio\export.hpp
+	<SFML/Config.hpp>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\audio\listener.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Vector3.hpp>
+
+1478253376 c:\program files (x86)\codeblocks\mingw\include\sfml\audio\music.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundStream.hpp>
+	<SFML/Audio/InputSoundFile.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+
+1478253376 c:\program files (x86)\codeblocks\mingw\include\sfml\audio\soundstream.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Mutex.hpp>
+	<cstdlib>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\audio\soundsource.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/AlResource.hpp>
+	<SFML/System/Vector3.hpp>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\audio\alresource.hpp
+	<SFML/Audio/Export.hpp>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\audio\outputsoundfile.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<string>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\audio\sound.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/System/Time.hpp>
+	<cstdlib>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\audio\soundbuffer.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/AlResource.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+	<set>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\audio\soundbufferrecorder.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/SoundRecorder.hpp>
+	<vector>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\audio\soundrecorder.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/AlResource.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Time.hpp>
+	<vector>
+	<string>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\audio\soundfilefactory.hpp
+	<SFML/Audio/Export.hpp>
+	<string>
+	<vector>
+	<SFML/Audio/SoundFileFactory.inl>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\audio\soundfilefactory.inl
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\audio\soundfilereader.hpp
+	<SFML/Audio/Export.hpp>
+	<string>
+
+1470642834 c:\program files (x86)\codeblocks\mingw\include\sfml\audio\soundfilewriter.hpp
+	<SFML/Audio/Export.hpp>
+	<string>
+
+1452336882 e:\vincent\4thyear\cmsc178\whiteghost\audio\soloud.h
+	<stdlib.h>
+	<math.h>
+	"soloud_filter.h"
+	"soloud_fader.h"
+	"soloud_audiosource.h"
+	"soloud_bus.h"
+	"soloud_error.h"
+
+1431175928 e:\vincent\4thyear\cmsc178\whiteghost\audio\soloud_wav.h
+	"soloud.h"
+
+1431176890 e:\vincent\4thyear\cmsc178\whiteghost\audio\soloud_filter.h
+	"soloud.h"
+
+1431176880 e:\vincent\4thyear\cmsc178\whiteghost\audio\soloud_fader.h
+	"soloud.h"
+
+1432124392 e:\vincent\4thyear\cmsc178\whiteghost\audio\soloud_audiosource.h
+	"soloud.h"
+	"soloud_fader.h"
+	"soloud_filter.h"
+
+1432733408 e:\vincent\4thyear\cmsc178\whiteghost\audio\soloud_bus.h
+	"soloud.h"
+
+1431176874 e:\vincent\4thyear\cmsc178\whiteghost\audio\soloud_error.h
+
+1452336882 c:\program files (x86)\codeblocks\mingw\include\soloud.h
+	<stdlib.h>
+	<math.h>
+	"soloud_filter.h"
+	"soloud_fader.h"
+	"soloud_audiosource.h"
+	"soloud_bus.h"
+	"soloud_error.h"
+
+1431176890 c:\program files (x86)\codeblocks\mingw\include\soloud_filter.h
+	"soloud.h"
+
+1431176880 c:\program files (x86)\codeblocks\mingw\include\soloud_fader.h
+	"soloud.h"
+
+1432124392 c:\program files (x86)\codeblocks\mingw\include\soloud_audiosource.h
+	"soloud.h"
+	"soloud_fader.h"
+	"soloud_filter.h"
+
+1432733408 c:\program files (x86)\codeblocks\mingw\include\soloud_bus.h
+	"soloud.h"
+
+1431176874 c:\program files (x86)\codeblocks\mingw\include\soloud_error.h
+
+1431175928 c:\program files (x86)\codeblocks\mingw\include\soloud_wav.h
+	"soloud.h"
+
+1398465810 c:\program files (x86)\codeblocks\mingw\include\irrklang.h
+	"ik_irrKlangTypes.h"
+	"ik_vec3d.h"
+	"ik_IRefCounted.h"
+	"ik_IVirtualRefCounted.h"
+	"ik_ESoundOutputDrivers.h"
+	"ik_ESoundEngineOptions.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+	"ik_ISoundEngine.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_IAudioStream.h"
+	"ik_IAudioStreamLoader.h"
+	"ik_ISoundEffectControl.h"
+	"ik_ISoundStopEventReceiver.h"
+	"ik_IFileFactory.h"
+	"ik_IFileReader.h"
+	"ik_ISoundDeviceList.h"
+	"ik_IAudioRecorder.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1394070254 c:\program files (x86)\codeblocks\mingw\include\ik_irrklangtypes.h
+	<wchar.h>
+
+1341006778 c:\program files (x86)\codeblocks\mingw\include\wchar.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<wctype.h>
+	<sys/types.h>
+	<stdio.h>
+	<stdint.h>
+	<stdint.h>
+
+1341006778 c:\program files (x86)\codeblocks\mingw\include\wctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdint.h
+	<stddef.h>
+
+1398990738 c:\program files (x86)\codeblocks\mingw\include\ik_vec3d.h
+	<math.h>
+	"ik_irrKlangTypes.h"
+
+1394060094 c:\program files (x86)\codeblocks\mingw\include\ik_irefcounted.h
+	"ik_irrKlangTypes.h"
+
+1394060094 c:\program files (x86)\codeblocks\mingw\include\ik_ivirtualrefcounted.h
+	"ik_irrKlangTypes.h"
+
+1394060100 c:\program files (x86)\codeblocks\mingw\include\ik_esoundoutputdrivers.h
+
+1394060094 c:\program files (x86)\codeblocks\mingw\include\ik_esoundengineoptions.h
+
+1394060094 c:\program files (x86)\codeblocks\mingw\include\ik_estreammodes.h
+
+1394060094 c:\program files (x86)\codeblocks\mingw\include\ik_saudiostreamformat.h
+	"ik_IRefCounted.h"
+
+1394067664 c:\program files (x86)\codeblocks\mingw\include\ik_isoundengine.h
+	"ik_IRefCounted.h"
+	"ik_vec3d.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_EStreamModes.h"
+	"ik_IFileFactory.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1394060094 c:\program files (x86)\codeblocks\mingw\include\ik_isoundsource.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+
+1394060094 c:\program files (x86)\codeblocks\mingw\include\ik_isound.h
+	"ik_IVirtualRefCounted.h"
+	"ik_ISoundEffectControl.h"
+	"ik_vec3d.h"
+
+1394060094 c:\program files (x86)\codeblocks\mingw\include\ik_isoundeffectcontrol.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+
+1394067652 c:\program files (x86)\codeblocks\mingw\include\ik_ifilefactory.h
+	"ik_IRefCounted.h"
+
+1394060094 c:\program files (x86)\codeblocks\mingw\include\ik_isoundmixedoutputreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1394060094 c:\program files (x86)\codeblocks\mingw\include\ik_iaudiostream.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1394060094 c:\program files (x86)\codeblocks\mingw\include\ik_iaudiostreamloader.h
+	"ik_IRefCounted.h"
+	"ik_IFileReader.h"
+
+1394060094 c:\program files (x86)\codeblocks\mingw\include\ik_ifilereader.h
+	"ik_IRefCounted.h"
+
+1394060094 c:\program files (x86)\codeblocks\mingw\include\ik_isoundstopeventreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1394060094 c:\program files (x86)\codeblocks\mingw\include\ik_isounddevicelist.h
+	"ik_IRefCounted.h"
+
+1394067648 c:\program files (x86)\codeblocks\mingw\include\ik_iaudiorecorder.h
+	"ik_IRefCounted.h"
+	"ik_ISoundSource.h"
+
+1341006780 c:\program files (x86)\codeblocks\mingw\include\sys\time.h
+	<time.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1480846398 source:e:\vincent\4thyear\1st sem\cmsc178\whiteghost\alphabets.cpp
+	"Alphabets.h"
+
+1480846445 e:\vincent\4thyear\1st sem\cmsc178\whiteghost\alphabets.h
+	"MyPolygon.h"
+
+1480603414 e:\vincent\4thyear\1st sem\cmsc178\whiteghost\mypolygon.h
+	<windows.h>
+	<GL/glut.h>
+
+1481842779 source:e:\vincent\4thyear\1st sem\cmsc178\whiteghost\background.cpp
+	"Background.h"
+	<stdio.h>
+
+1481667837 e:\vincent\4thyear\1st sem\cmsc178\whiteghost\background.h
+	"MyPolygon.h"
+	"GameAttributes.h"
+	"GameChar.h"
+
+1481861934 e:\vincent\4thyear\1st sem\cmsc178\whiteghost\gameattributes.h
+	"GameChar.h"
+	"Fence.h"
+	<stdlib.h>
+	<string>
+	<vector>
+
+1481530219 e:\vincent\4thyear\1st sem\cmsc178\whiteghost\gamechar.h
+	"MyPolygon.h"
+
+1481531070 e:\vincent\4thyear\1st sem\cmsc178\whiteghost\fence.h
+	"MyPolygon.h"
+
+1481541301 source:e:\vincent\4thyear\1st sem\cmsc178\whiteghost\collision.cpp
+	"Collision.h"
+	<windows.h>
+	<GL/glut.h>
+
+1481457408 e:\vincent\4thyear\1st sem\cmsc178\whiteghost\collision.h
+	<windows.h>
+	<GL/glut.h>
+	"Fence.h"
+	"GameChar.h"
+
+1481459921 source:e:\vincent\4thyear\1st sem\cmsc178\whiteghost\fence.cpp
+	"Fence.h"
+
+1481531020 source:e:\vincent\4thyear\1st sem\cmsc178\whiteghost\gamechar.cpp
+	"GameChar.h"
+
+1481862151 source:e:\vincent\4thyear\1st sem\cmsc178\whiteghost\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<sstream>
+	<fstream>
+	"MyPolygon.h"
+	"Alphabets.h"
+	"MyText.h"
+	"GameAttributes.h"
+	"Background.h"
+	"GameChar.h"
+	"Fence.h"
+	"Collision.h"
+	"Sound.h"
+
+1481006047 e:\vincent\4thyear\1st sem\cmsc178\whiteghost\mytext.h
+	<string>
+	"Alphabets.h"
+
+1481547820 e:\vincent\4thyear\1st sem\cmsc178\whiteghost\sound.h
+	<windows.h>
+	<mmsystem.h>
+	<irrKlang.h>
+
+1480831919 source:e:\vincent\4thyear\1st sem\cmsc178\whiteghost\mypolygon.cpp
+	"MyPolygon.h"
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+
+1481006039 source:e:\vincent\4thyear\1st sem\cmsc178\whiteghost\mytext.cpp
+	"MyText.h"
+
+1481805591 source:e:\vincent\4thyear\1st sem\cmsc178\whiteghost\sound.cpp
+	"Sound.h"
+
